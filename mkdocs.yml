@@ -1,4 +1,6 @@
 site_name: RIA TOM Toolkit
+site_url: https://github.com/saulruizfernandez/docs-riatom.git
+use_directory_urls: false
 site_description: Astronomical Observation Planning Tool for the Red de Infraestructuras de Astronomía de España
 site_author: IAC - Instituto de Astrofísica de Canarias
 docs_dir: docs
